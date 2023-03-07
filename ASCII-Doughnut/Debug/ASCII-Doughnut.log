@@ -1,0 +1,9 @@
+﻿  ASCII-Doughnut.cpp
+D:\Games_C++\ASCII-Doughnut\ASCII-Doughnut\ASCII-Doughnut.cpp(61,40): warning C4305: +=: усечение из "double" в "float"
+D:\Games_C++\ASCII-Doughnut\ASCII-Doughnut\ASCII-Doughnut.cpp(63,44): warning C4305: +=: усечение из "double" в "float"
+D:\Games_C++\ASCII-Doughnut\ASCII-Doughnut\ASCII-Doughnut.cpp(80,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Games_C++\ASCII-Doughnut\ASCII-Doughnut\ASCII-Doughnut.cpp(83,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Games_C++\ASCII-Doughnut\ASCII-Doughnut\ASCII-Doughnut.cpp(90,23): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Games_C++\ASCII-Doughnut\ASCII-Doughnut\ASCII-Doughnut.cpp(105,25): warning C4305: +=: усечение из "double" в "float"
+D:\Games_C++\ASCII-Doughnut\ASCII-Doughnut\ASCII-Doughnut.cpp(106,25): warning C4305: +=: усечение из "double" в "float"
+  ASCII-Doughnut.vcxproj -> D:\Games_C++\ASCII-Doughnut\Debug\ASCII-Doughnut.exe
